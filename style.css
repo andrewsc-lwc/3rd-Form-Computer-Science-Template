@@ -1,9 +1,9 @@
 /* Main variables to be used for the styles*/
 :root{
-  --mainFontColour: Blue;
+  --mainFontColour: rgb(50, 90, 81);
   --mainFontType: Arial, Helvetica, sans-serif;
   --subTitleFontColour: red;
-  --pageBackground: ivory;
+  --pageBackground: rgb(0, 255, 213);
   --foregroundColour: White;
   --backgroundColour: black;
   --menuBackgroundColour : green;
